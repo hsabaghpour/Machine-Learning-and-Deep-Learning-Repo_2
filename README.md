@@ -20,7 +20,7 @@ Feel free to explore the projects and experiments in this repository. You can cl
 
 bash
 Copy code
-git clone 
+git clone git@github.com:hsabaghpour/Machine-Learning-and-Deep-Learning-Repo_2.git
 Each project or experiment may have its own README file with instructions on how to run or use it.
 
 Contributions
